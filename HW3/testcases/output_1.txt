@@ -1,0 +1,8 @@
+Solving the math problem.
+5 25
+Solving the string problem.
+4
+Solving the math problem.
+25 40
+Solving the string problem.
+3

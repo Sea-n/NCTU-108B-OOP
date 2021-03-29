@@ -1,0 +1,8 @@
+Solving the string problem.
+4
+Solving the math problem.
+9 37
+Solving the math problem.
+3 6
+Solving the string problem.
+2

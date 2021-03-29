@@ -1,0 +1,8 @@
+math
+124
+string
+10101
+math
+1000
+string
+111001
